@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zaN-121
-- 👀 I’m interested in Back-End Development
-- 🌱 I’m currently learning Java Programing language
+- 👋 Hi, I’m Ahmad Nazir Arrobi @zaN-121 
+- 👀 I’m interested in Software Development & Software Engineering
+- 🌱 I’m currently learning Java Programing language & .NET Core
 - 💞️ I’m looking to collaborate on full stack project
 - 📫 reach me in 
  + projectdsanthos@gmail.com as community
